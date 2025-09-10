@@ -4,7 +4,6 @@ A **production-ready baseline API** built with **ASP.NET Core**, following **bes
 - API Versioning (`Asp.Versioning`)
 - JWT Authentication & Authorization
 - Role & Permission-based Access Control
-- Clean and Modular Architecture
 - Projects & Tasks domain with CRUD operations
 
 ---
